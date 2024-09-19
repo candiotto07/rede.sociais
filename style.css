@@ -1,0 +1,18 @@
+:root{
+    --cor-principal:#751c3e;
+    --cor-secundaria:#62152f;
+    --cor-de-fundo:#500e1f;
+    --cor-de-texto:#3d0710;
+    --font: '𝐹𝑜𝓃𝓉𝑒𝓈 𝒹𝑒 𝓁𝑒𝓉𝓇𝒶𝓈',sans-serif;
+}
+body{
+    background-color:var(--cor-principal);
+    color: var(--cor-de-texto)
+    font-family: var(var(--font));
+    height:100vh;
+    margin: 0;
+}
+.cabecalho{
+    background-color: var(--cor-secundaria);
+    text-align: center;
+}
