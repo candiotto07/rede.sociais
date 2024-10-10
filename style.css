@@ -3,9 +3,9 @@
 :root {
     --cor-principal:#06b3a1;
     --cor-secundaria:#05a190;
-    --cor-texto:#027d6d;
+    --cor-texto:#fcf9ce;
     --cor-de-fundo:#027d6d;
-    --fonte: "Dancing Script" ,𝐟𝐚𝐧𝐜𝐲 𝐭𝐞𝐱𝐭;
+    --fonte: "Dancing Script" ,sans-serif;
 }
 
 body{
